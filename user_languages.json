@@ -1,0 +1,22 @@
+[
+    {
+        "id_user": 1,
+        "id_languages": 1  
+    },
+    {
+        "id_user": 1,
+        "id_languages": 2 
+    },
+    {
+        "id_user": 1,
+        "id_languages": 3
+    },
+    {
+        "id_user": 1,
+        "id_languages": 8 
+    },
+    {
+        "id_user": 1,
+        "id_languages": 9  
+    }
+]

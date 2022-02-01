@@ -1,0 +1,14 @@
+[
+    {
+        "id_user": 1,
+        "id_framework": 1
+    },
+    {
+        "id_user": 1,
+        "id_framework": 4
+    },
+    {
+        "id_user": 1,
+        "id_framework": 5
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "bipcld0197000-chl-per-apl-appmobile",
+        "icon": "phone_iphone"
+    },
+    {
+        "name": "bipcld0196000-chl-per-apl-webapp",
+        "icon": "web_asset"
+    },
+    {
+        "name": "bipcld0196000-lgcy-plugin-dsb-protector-sdk-gitlfts",
+        "icon": "phonelink_lock"
+    },
+    {
+        "name": "bipcld0196000-chl-per-cmt-library-web-personas",
+        "icon": "local_library"
+    },
+    {
+        "name": "bipcld0232000-chl-per-cmt-library-plugin-did",
+        "icon": "contact_phone"
+    }
+]

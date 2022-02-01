@@ -1,0 +1,14 @@
+[
+    {
+        "id_user": 1,
+        "id_git": 1
+    },
+    {
+        "id_user": 1,
+        "id_git": 2
+    },
+    {
+        "id_user": 1,
+        "id_git": 3
+    }
+]

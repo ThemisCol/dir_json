@@ -1,0 +1,17 @@
+[
+    {
+        "name": "RDS"
+    },
+    {
+        "name": "Lambda"
+    },
+    {
+        "name": "S3"
+    },
+    {
+        "name": "Ordenes de Cambio"
+    },
+    {
+        "name": "Pipeline"
+    }
+]
